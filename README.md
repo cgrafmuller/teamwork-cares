@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* What is Love?
+
 * Ruby version
 
 * System dependencies
